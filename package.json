@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-spartacus",
+  "name": "jsonresume-theme-adoubleu",
   "version": "1.0.0",
-  "description": "Spartacus theme for JSON Resume",
-  "author": "Debbie Facey",
+  "description": "adoubleu theme for JSON Resume",
+  "author": "Adrian Werner",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dannief/jsonresume-theme-spartacus"
+    "url": "https://github.com/adoubleu/jsonresume-theme-adoubleu"
   },
   "license": "MIT",
   "dependencies": {

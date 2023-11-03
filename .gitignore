@@ -6,3 +6,5 @@ resume.json
 .DS_Store
 public/
 .vscode/
+.idea
+*.iml
